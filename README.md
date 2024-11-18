@@ -1,5 +1,7 @@
 # Generatore di Codice Fiscale
 
+<img src="logo.png" alt="logo" align="middle">
+
 ## Panoramica
 Questa applicazione permette agli utenti di generare codici fiscali italiani in base alle informazioni personali fornite. Include funzionalità come:
 
